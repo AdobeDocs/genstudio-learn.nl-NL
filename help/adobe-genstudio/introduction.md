@@ -1,13 +1,13 @@
 ---
 title: inleiding
 description: inleiding
-source-git-commit: 66641d3560a1729e5a982ab70d523b0d82dbd28a
+source-git-commit: 92581e6251297c40001c99eba09fc019b9770d92
 workflow-type: tm+mt
-source-wordcount: '19'
-ht-degree: 5%
+source-wordcount: '15'
+ht-degree: 6%
 
 ---
 
 # Inleiding
 
-Als u de naam van dit bestand wilt wijzigen in overview.md, verwijdert u de omleiding in het bestand content-supply-chain-tutorials.md.
+Bezoek het [ GenStudio for Performance Marketing ](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing) huis voor de recentste informatie.
