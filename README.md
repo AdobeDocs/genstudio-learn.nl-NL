@@ -1,5 +1,5 @@
 ---
-source-git-commit: 25434d58a4b416d5792d3065a87117caa4ab8c97
+source-git-commit: cbd8d15f33c5dc7b6099fac62b0d77b3a645093c
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 5%
@@ -7,7 +7,7 @@ ht-degree: 5%
 ---
 # Contribute-artikel
 
-**NOTA:** Deze bewaarplaats wordt gearchiveerd!
+**NOTA:** Deze bewaarplaats wordt gearchiveerd.
 
 Wij verwelkomen de bijdragen van onze gemeenschap en van Adobe werknemers van buiten de documentatieteams.
 
